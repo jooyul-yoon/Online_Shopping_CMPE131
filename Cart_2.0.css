@@ -1,0 +1,67 @@
+.products{
+    border: 1px solid #eaeaec;
+    border-radius:5px;
+    padding: 10px;
+    text-align: center;
+    background-color: #efefef;
+    margin-bottom:20px;
+}
+table{
+  margin: 0px auto;
+  float: none;
+}
+
+.src{
+  padding:10px;
+}
+.row{
+  margin: 0px auto;
+  float: none;
+}
+.centered{
+  margin: 0px auto;
+  float: none;
+}
+.button{
+  background:#4CAF50;
+  color:white;
+  text-align:center;
+  padding:12px;
+  text-decoration: none;
+  display: block;
+  border-radius: 3px;
+  font-size:16px;
+  margin: 25px, 0 , 25px, 0;
+}
+
+.button visited{
+  text-decoration: none;
+  color: green;
+}
+
+.button:hover{
+  background: #4CAF50;
+  text-decoration: none;
+  color:green;
+}
+
+.button:active{
+  text-decoration: none;
+  color: green;
+}
+
+.btn-danger:hover{
+  text-decoration:none;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+h3{
+
+}
